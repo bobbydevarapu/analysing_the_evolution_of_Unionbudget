@@ -1,33 +1,37 @@
+
 # Empowering India: Union Budget Analytics System
 
-## 📌 Project Overview
-This project analyzes Union Budget allocations from 2021-2024 to understand sector-wise growth and economic priorities using SQL, Tableau, and Flask.
+Welcome to our final year CSE project! This system is designed to help everyone understand how India's Union Budget has changed and grown from 2021 to 2024. We use real data, SQL for processing, Tableau for interactive dashboards, and Flask to bring it all together on the web.
 
-## 🛠 Technologies Used
-- MySQL
-- Tableau
-- Python (Flask)
-- HTML, CSS
+## Project Overview
+Our goal is to make budget data easy to explore. You can see trends over the years, compare how much different ministries and categories receive, and view growth percentages. The project brings together data engineering, visualization, and web development for a complete analytics experience.
 
-## 📊 Features
-- Budget trend analysis (2021–2024)
-- Category-wise allocation
-- Ministry-wise comparison
-- Growth percentage analysis
-- Interactive Dashboard
-- Story Visualization
-- Web Integration using Flask
+## Technologies Used
+- MySQL (for database and queries)
+- Tableau (for dashboards and stories)
+- Python with Flask (for the web app)
+- HTML & CSS (for the user interface)
 
-## 🗂 Project Structure
-- SQL scripts for database creation
-- Tableau dashboard & story
-- Flask-based web integration
+## Key Features
+- See budget trends from 2021 to 2024
+- Explore allocations by category and ministry
+- Compare growth percentages year over year
+- Interactive Tableau dashboard and story
+- Simple web interface using Flask
 
-## 🌐 Tableau Public Link
-(Paste your Tableau Public link here)
+## How the Project is Organized
+- `mysql_scripts/` — SQL scripts to set up and manage the database
+- `cleaned_data/` and `dataset/` — CSV files with raw and cleaned budget data
+- `tableau/` — All Tableau dashboards and story images
+- `flask_app/` — The Flask web app and HTML templates
+- `documentation/` — Project report and supporting documents
 
-## 👥 Team Members
-- Team Leader: Bobby Devarapu
-- Member: D Durga Santhosh
-- Member: B Jaya Keerthana
-- Member: Naga Venkata Ramana Kappala
+## Try the Dashboard
+Check out our Tableau dashboard here:
+https://public.tableau.com/static/images/Da/Dashboard1_17712271006430/Dashboard1
+
+## Team Members
+- Bobby Devarapu (Team Leader)
+- D Durga Santhosh
+- B Jaya Keerthana
+- Naga Venkata Ramana Kappala
