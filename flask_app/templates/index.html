@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Union Budget Analytics System</title>
+
+    <!-- Google Font -->
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Poppins', sans-serif;
+        }
+
+        body {
+            background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+            color: white;
+            min-height: 100vh;
+        }
+
+        /* ---------- HEADER ---------- */
+        header {
+            padding: 60px 20px 40px;
+            text-align: center;
+        }
+
+        header h1 {
+            font-size: 48px;
+            font-weight: 700;
+            margin-bottom: 12px;
+        }
+
+        header p {
+            font-size: 18px;
+            opacity: 0.85;
+            max-width: 800px;
+            margin: auto;
+        }
+
+        /* ---------- MAIN SECTION ---------- */
+        .dashboard-section {
+            max-width: 1300px;
+            margin: 40px auto 80px;
+            padding: 0 20px;
+        }
+
+        .card {
+            background: rgba(255, 255, 255, 0.08);
+            backdrop-filter: blur(15px);
+            border-radius: 25px;
+            padding: 40px;
+            box-shadow: 0 25px 60px rgba(0, 0, 0, 0.35);
+        }
+
+        .card-title {
+            text-align: center;
+            font-size: 24px;
+            font-weight: 600;
+            margin-bottom: 30px;
+        }
+
+        /* ---------- TABLEAU RESPONSIVE ---------- */
+        .tableauPlaceholder {
+            width: 100% !important;
+        }
+
+        .tableauViz {
+            width: 100% !important;
+        }
+
+        /* ---------- FOOTER ---------- */
+        footer {
+            text-align: center;
+            padding: 40px 10px;
+            font-size: 14px;
+            opacity: 0.7;
+            border-top: 1px solid rgba(255,255,255,0.1);
+        }
+
+        /* ---------- RESPONSIVE ---------- */
+        @media (max-width: 768px) {
+            header h1 {
+                font-size: 34px;
+            }
+
+            header p {
+                font-size: 15px;
+            }
+
+            .card {
+                padding: 20px;
+            }
+        }
+
+    </style>
+</head>
+
+<body>
+
+<header>
+    <h1>Empowering India</h1>
+    <p>
+        Analysing the Evolution of Union Budget Allocations (2022–2024) 
+        using Data Engineering, SQL Processing, and Interactive Tableau Visualization.
+    </p>
+</header>
+
+<section class="dashboard-section">
+    <div class="card">
+        <div class="card-title">
+            Union Budget Allocation Dashboard
+        </div>
+
+        <!-- Tableau Embed -->
+        <div class='tableauPlaceholder' id='viz1771228338311' style='position: relative'>
+            <noscript>
+                <a href='#'>
+                    <img alt='Union Budget Dashboard'
+                         src='https://public.tableau.com/static/images/Da/Dashboard1_17712271006430/Dashboard1/1.png'
+                         style='border: none' />
+                </a>
+            </noscript>
+
+            <object class='tableauViz' style='display:none;'>
+                <param name='host_url' value='https://public.tableau.com/' />
+                <param name='embed_code_version' value='3' />
+                <param name='name' value='Dashboard1_17712271006430/Dashboard1' />
+                <param name='tabs' value='no' />
+                <param name='toolbar' value='yes' />
+                <param name='animate_transition' value='yes' />
+                <param name='display_spinner' value='yes' />
+                <param name='display_overlay' value='yes' />
+                <param name='display_count' value='yes' />
+                <param name='language' value='en-US' />
+            </object>
+        </div>
+
+    </div>
+</section>
+
+<footer>
+    © 2026 Empowering India | Final Year CSE Project | Built with Flask, SQL & Tableau
+</footer>
+
+<script type='text/javascript'>
+    var divElement = document.getElementById('viz1771228338311');
+    var vizElement = divElement.getElementsByTagName('object')[0];
+
+    vizElement.style.width = '100%';
+    vizElement.style.height = '950px';  // Adjust height if needed
+
+    var scriptElement = document.createElement('script');
+    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+    vizElement.parentNode.insertBefore(scriptElement, vizElement);
+</script>
+
+</body>
+</html>
