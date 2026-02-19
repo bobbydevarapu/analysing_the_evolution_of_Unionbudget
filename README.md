@@ -1,8 +1,6 @@
 
 # Empowering India: Union Budget Analytics System
 
-Welcome to our final year CSE project! This system is designed to help everyone understand how India's Union Budget has changed and grown from 2021 to 2024. We use real data, SQL for processing, Tableau for interactive dashboards, and Flask to bring it all together on the web.
-
 ## Project Overview
 Our goal is to make budget data easy to explore. You can see trends over the years, compare how much different ministries and categories receive, and view growth percentages. The project brings together data engineering, visualization, and web development for a complete analytics experience.
 
