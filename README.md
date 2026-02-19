@@ -27,8 +27,22 @@ Our goal is to make budget data easy to explore. You can see trends over the yea
 - `documentation/` — Project report and supporting documents
 
 ## Try the Dashboard
-Check out our Tableau dashboard here:
-https://public.tableau.com/static/images/Da/Dashboard1_17712271006430/Dashboard1
+
+## Explore Our Tableau Dashboards
+
+### Main Dashboard
+[![Dashboard1](https://public.tableau.com/thumb/views/Dashboard1_17712271006430/Dashboard1)](https://public.tableau.com/views/Dashboard1_17712271006430/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+### Additional Dashboards
+
+**Budget Comparison Dashboard:**  
+[![Dashboard2](https://public.tableau.com/thumb/views/Dashboard2_17714948077780/Dashboard2)](https://public.tableau.com/views/Dashboard2_17714948077780/Dashboard2?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+**Top 10 Ministries by Budget:**  
+[![Top 10 Ministries](https://public.tableau.com/thumb/views/Top10MinistriesbyBudget/Top10MinistriesbyBudgetAllocation202324vs202223)](https://public.tableau.com/views/Top10MinistriesbyBudget/Top10MinistriesbyBudgetAllocation202324vs202223?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+**Top 5 Schemes (2021-22):**  
+[![Top 5 Schemes](https://public.tableau.com/thumb/views/Top5Schemes/Top5Schemes202122)](https://public.tableau.com/views/Top5Schemes/Top5Schemes202122?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Team Members
 - Bobby Devarapu (Team Leader)
