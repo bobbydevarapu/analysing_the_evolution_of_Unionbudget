@@ -18,17 +18,10 @@ Our goal is to make budget data easy to explore. You can see trends over the yea
 - Simple web interface using Flask
 
 ## How the Project is Organized
-- `mysql_scripts/` — SQL scripts to set up and manage the database
-- `cleaned_data/` and `dataset/` — CSV files with raw and cleaned budget data
-- `tableau/` — All Tableau dashboards and story images
-- `flask_app/` — The Flask web app and HTML templates
-- `documentation/` — Project report and supporting documents
 
 ## Try the Dashboard
-
+## Try the Dashboard
 ## Explore Our Tableau Dashboards
-
-### Main Dashboard
 [![Dashboard1](https://public.tableau.com/thumb/views/Dashboard1_17712271006430/Dashboard1)](https://public.tableau.com/views/Dashboard1_17712271006430/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### Additional Dashboards
@@ -42,8 +35,3 @@ Our goal is to make budget data easy to explore. You can see trends over the yea
 **Top 5 Schemes (2021-22):**  
 [![Top 5 Schemes](https://public.tableau.com/thumb/views/Top5Schemes/Top5Schemes202122)](https://public.tableau.com/views/Top5Schemes/Top5Schemes202122?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-## Team Members
-- Bobby Devarapu (Team Leader)
-- D Durga Santhosh
-- B Jaya Keerthana
-- Naga Venkata Ramana Kappala
