@@ -1,10 +1,6 @@
 
 # Empowering India: Union Budget Analytics System
 
-Welcome to our final year CSE project! This system is designed to help everyone understand how India's Union Budget has changed and grown from 2021 to 2024. We use real data, SQL for processing, Tableau for interactive dashboards, and Flask to bring it all together on the web.
-
-
-# Empowering India: Analysing the Evolution of Union Budget Allocations for Sustainable Growth
 
 ## 1) Title
 **Empowering India: Analysing the Evolution of Union Budget Allocations for Sustainable Growth**
@@ -107,17 +103,3 @@ This is the Flask web app user interface:
 - `tableau/` - Tableau dashboard/story assets
 - `documentation/` - project documentation
 - `video/` - demo videos
-
-## Explore Our Tableau Dashboards
-[![Dashboard1](https://public.tableau.com/thumb/views/Dashboard1_17712271006430/Dashboard1)](https://public.tableau.com/views/Dashboard1_17712271006430/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
-### Additional Dashboards
-
-**Budget Comparison Dashboard:**  
-[![Dashboard2](https://public.tableau.com/thumb/views/Dashboard2_17714948077780/Dashboard2)](https://public.tableau.com/views/Dashboard2_17714948077780/Dashboard2?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
-**Top 10 Ministries by Budget:**  
-[![Top 10 Ministries](https://public.tableau.com/thumb/views/Top10MinistriesbyBudget/Top10MinistriesbyBudgetAllocation202324vs202223)](https://public.tableau.com/views/Top10MinistriesbyBudget/Top10MinistriesbyBudgetAllocation202324vs202223?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
-**Top 5 Schemes (2021-22):**  
-[![Top 5 Schemes](https://public.tableau.com/thumb/views/Top5Schemes/Top5Schemes202122)](https://public.tableau.com/views/Top5Schemes/Top5Schemes202122?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
